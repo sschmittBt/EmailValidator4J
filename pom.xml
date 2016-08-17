@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>emailvalidator4j</groupId>
   <artifactId>emailvalidator4j-1.0.0</artifactId>
-  <version>1.0.0</version>
+  <version>jdk7-1.0.1</version>
   <inceptionYear>2015</inceptionYear>
   <licenses>
     <license>
